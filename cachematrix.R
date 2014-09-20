@@ -1,3 +1,7 @@
+## Scripts contained in this file are adapted from RD Peng's example code for 
+## caching calculated mean values of a vector, as published in Coursera class
+## ID rprog-007, programming assignment 2 instructions.
+##
 ## The below function makeCacheMatrix() does the following:
 ## (1) sets the value of a matrix
 ## (2) gets the value of that matrix
